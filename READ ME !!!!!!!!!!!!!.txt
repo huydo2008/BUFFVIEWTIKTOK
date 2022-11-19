@@ -1,0 +1,32 @@
+this is a simple tool to use, you need python installed or it will close.
+
+instructions:
+install chromedriver here : https://chromedriver.chromium.org/downloads
+place it in the folder
+open command console inside of Tiktok folder
+install the requirements (pip install -r requirements.txt) inside command prompt
+now run the tool and choose your option.
+
+NOTICE**
+this tool is almost fully automated, all you have to do is enter the captcha at the start and 
+then leave it running for as long as you want, do not mess with the chrome tab after you enter 
+the captcha or you might break the sequence of the tool.
+
+follow me on tiktok doe:) https://www.tiktok.com/@raycfw
+feel free to repost this tool but @ me or bad shtuff will happen.
+
+join the server if you have any issues but DO NOT DM ME or you will be blocked.
+
+https://discord.gg/M4vnBTM
+https://discord.gg/M4vnBTM
+https://discord.gg/M4vnBTM
+https://discord.gg/M4vnBTM
+https://discord.gg/M4vnBTM
+
+
+____________________________________________________________
+
+a few common issues with python selenium is the use of a wrong chromedriver version so make sure you have the right one installed
+if you cannot install requirements then your cmd console isn't opened in the folder.
+use (cd Desktop) - (cd Tiktok) if your folder is on your desktop.
+now try again https://chromedriver.chromium.org/downloads
